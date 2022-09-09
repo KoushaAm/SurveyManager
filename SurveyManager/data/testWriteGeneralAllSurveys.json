@@ -1,0 +1,33 @@
+{
+    "All Surveys": [
+        {
+            "password": "abc",
+            "questions": ["Q1"],
+            "answers": [[
+                "a1",
+                "a2"
+            ]],
+            "answer Entries": [[
+                0,
+                0
+            ]],
+            "title": "s1",
+            "numOfQuestions": 1
+        },
+        {
+            "password": "bdc",
+            "questions": ["Q2"],
+            "answers": [[
+                "a1",
+                "a2"
+            ]],
+            "answer Entries": [[
+                0,
+                0
+            ]],
+            "title": "s2",
+            "numOfQuestions": 1
+        }
+    ],
+    "numOfSurveys": 2
+}

@@ -1,0 +1,52 @@
+{
+    "All Surveys": [
+        {
+            "password": "123",
+            "questions": ["how many course are you taking?"],
+            "answers": [[
+                "4 courses",
+                "5 courses",
+                "6 courses"
+            ]],
+            "answer Entries": [[
+                0,
+                0,
+                0
+            ]],
+            "title": "UBC",
+            "numOfQuestions": 1
+        },
+        {
+            "password": "123",
+            "questions": [
+                "how anxious are you for finals?",
+                "are you happy?"
+            ],
+            "answers": [
+                [
+                    "3/10",
+                    "100/10",
+                    "9/10"
+                ],
+                [
+                    "yes",
+                    "no :("
+                ]
+            ],
+            "answer Entries": [
+                [
+                    0,
+                    0,
+                    1
+                ],
+                [
+                    1,
+                    0
+                ]
+            ],
+            "title": "Student Survey",
+            "numOfQuestions": 2
+        }
+    ],
+    "numOfSurveys": 2
+}
